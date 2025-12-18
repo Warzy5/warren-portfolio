@@ -37,12 +37,7 @@ const About = () => {
       <motion.p
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
-        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis
-        sapiente ipsum dolorum dicta eaque cumque inventore molestias, beatae ea
-        quaerat alias accusamus voluptas autem! Alias odit voluptates in totam
-        vitae dignissimos minus eaque culpa unde tempore dolore aperiam
-        obcaecati voluptatum aliquam corrupti, suscipit accusamus! Odit unde
-        veniam dolorum ipsum doloribus.
+        Après le brevet, j’ai choisi de m’orienter vers les métiers du numérique en intégrant l’EdenSchool, Ecole du Digital et Numérique. Cette formation m’a permis d’acquérir des compétences solides en développement front-end et back-end, ainsi qu’une véritable compréhension du fonctionnement d’un projet web de bout en bout.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
