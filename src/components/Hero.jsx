@@ -46,8 +46,8 @@ const Hero = () => {
               </span>
             </h1>
             <p className={`${styles.heroSubText} mt-2 text-eerieBlack`}>
-              Lorem ipsum dolor sit amet. <br className="sm:block hidden" />
-              consectetur adipisicing elit deleniti, voluptas.
+              <br className="sm:block hidden" />
+              Développeur dynamique je suis quelqu’un d’agile prêt à résoudre les problèmes qui se posent sur mon chemin grâce a mes différentes connaissances
             </p>
           </div>
           <div
