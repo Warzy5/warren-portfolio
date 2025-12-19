@@ -84,8 +84,8 @@ const technologies = [
 
 const experiences = [
   {
-    title: 'Front-End Developer',
-    company_name: 'Cover Hunt',
+    title: 'python',
+    company_name: 'Air Liquide',
     icon: coverhunt,
     iconBg: '#333333',
     date: 'Aug 2021 - Feb 2022',
