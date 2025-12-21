@@ -88,7 +88,7 @@ const experiences = [
     company_name: 'Air Liquide',
     icon: coverhunt,
     iconBg: '#333333',
-    date: 'Aug 2021 - Feb 2022',
+    date: ' 12 Dec 2022 - 16 Dec 2022',
   },
   {
     title: 'Mentor (Volunteer)',

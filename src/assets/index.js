@@ -7,6 +7,7 @@ import logo from './logo/logo-black.png';
 import logotext from './logo/logo-text-black.png';
 
 import shaq from './personal/shaq.png';
+import warzy from './personal/Warzy.png';
 
 import backend from './icons/backend.png';
 import ux from './icons/ux.png';
@@ -58,6 +59,7 @@ export {
   logo,
   logotext,
   shaq,
+  warzy,
   backend,
   ux,
   frontend,
