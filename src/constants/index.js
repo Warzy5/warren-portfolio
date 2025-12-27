@@ -27,6 +27,7 @@ import {
   dcc,
   kelhel,
   microverse,
+  python,
 } from '../assets';
 
 export const navLinks = [
@@ -86,7 +87,7 @@ const experiences = [
   {
     title: 'python',
     company_name: 'Air Liquide',
-    icon: coverhunt,
+    icon: python,
     iconBg: '#333333',
     date: ' 12 Dec 2022 - 16 Dec 2022',
   },
