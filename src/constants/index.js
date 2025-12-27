@@ -91,25 +91,18 @@ const experiences = [
     date: ' 12 Dec 2022 - 16 Dec 2022',
   },
   {
-    title: 'Mentor (Volunteer)',
-    company_name: 'Microverse',
+    title: 'Front end introduction',
+    company_name: 'Edenschool',
     icon: microverse,
     iconBg: '#333333',
-    date: 'Mar 2022 - May 2022',
+    date: 'Sep 2023 - Jul 2025',
   },
   {
-    title: 'Junior Software Engineer',
-    company_name: 'Kelhel',
+    title: 'Back end introduction',
+    company_name: 'Edenschool',
     icon: kelhel,
     iconBg: '#333333',
-    date: 'May 2022 - Oct 2022',
-  },
-  {
-    title: 'Full Stack Developer',
-    company_name: 'Diversity Cyber Council',
-    icon: dcc,
-    iconBg: '#333333',
-    date: 'Sep 2022 - Present',
+    date: 'Sep 2025 - still going',
   },
 ];
 
