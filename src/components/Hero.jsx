@@ -2,7 +2,7 @@ import { motion } from 'framer-motion';
 import { Link } from 'react-router-dom';
 import { styles } from '../styles';
 import { navLinks } from '../constants';
-import { shaq, bwmap, worldmap} from '../assets';
+import {bwmap, worldmap} from '../assets';
 
 const Hero = () => {
   return (
@@ -78,17 +78,6 @@ const Hero = () => {
               />
             </div>
           </a>
-        </div>
-
-        {/* Your image comes here. Feel free to remove image if you don't plan to have one.*/}
-        <div>
-          <img
-            className="absolute bottom-0 ml-[50vw] 
-            lg:ml-[75vw] md:ml-[60vw] xmd:ml-[60vw] 2xl:ml-[83vw]
-            sm:h-[90vh] md:h-[70vh] xl:h-[80vh]"
-            src={shaq}
-            alt="shaquille"
-          />
         </div>
       </section>
     </>
