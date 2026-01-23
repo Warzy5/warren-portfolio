@@ -110,8 +110,8 @@ const experiences = [
 const projects = [
   {
     id: 'project-1',
-    name: 'KomiKult',
-    description: 'A comic characters list app that displays Marvel characters.',
+    name: 'Skyscope',
+    description: 'A little webpage schocasing nasa infos',
     tags: [
       {
         name: 'react',
