@@ -51,6 +51,7 @@ import math from './projects/math-magicians.png';
 import movie from './projects/movie-metro.png';
 import nyeusi from './projects/nyeusi.png';
 import space from './projects/space-hub.png';
+import skyscope from './projects/skyscope.png';
 
 export {
   bwmap,
@@ -95,6 +96,7 @@ export {
   movie,
   nyeusi,
   space,
+  skyscope,
   coverhunt,
   dcc,
   kelhel,
