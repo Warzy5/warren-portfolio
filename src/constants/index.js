@@ -127,8 +127,8 @@ const projects = [
       },
     ],
     image: komikult,
-    repo: 'https://github.com/shaqdeff/KomiKult',
-    demo: 'https://shaqdeff.github.io/KomiKult/',
+    repo: 'https://github.com/Warzy5/Starscope-es-24',
+    demo: 'https://warzy5.github.io/Starscope-es-24/#acceuil',
   },
   {
     id: 'project-2',
