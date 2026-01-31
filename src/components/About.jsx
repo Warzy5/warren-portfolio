@@ -31,13 +31,14 @@ const About = () => {
     <div className="-mt-[6rem]">
       <motion.div variants={textVariant()}>
         <p className={styles.sectionSubText}>Introduction</p>
-        <h2 className={styles.sectionHeadText}>en bref mon parcours.</h2>
+        <h2 className={styles.sectionHeadText}>Who am I?</h2>
       </motion.div>
 
       <motion.p
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
-        Après le brevet, j’ai choisi de m’orienter vers les métiers du numérique en intégrant l’EdenSchool, Ecole du Digital et Numérique. Cette formation m’a permis d’acquérir des compétences solides en développement front-end et back-end, ainsi qu’une véritable compréhension du fonctionnement d’un projet web de bout en bout.
+        I am Warzy a french junior web developper who enjoys working on HTML,CSS,Javascript,PHP and Sql.
+        I have pretty solid knowledge on these subjects but I'm also planning to learn React.Js and Luau.Anyways below this text here are some things I master.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
