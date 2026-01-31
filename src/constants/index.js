@@ -20,6 +20,7 @@ import {
   skyscope,
   leaderboard,
   password,
+  country,
   math,
   movie,
   nyeusi,
@@ -112,7 +113,7 @@ const projects = [
   {
     id: 'project-1',
     name: 'Skyscope',
-    description: 'A little webpage schocasing nasa infos',
+    description: 'A little webpage',
     tags: [
       {
         name: 'react',
@@ -150,9 +151,32 @@ const projects = [
         color: 'pink-text-gradient',
       },
     ],
-    image: password,
+    image: country,
     repo: 'https://github.com/Warzy5/password-generator',
     demo: 'https://warzy5.github.io/password-generator/',
+  },
+  {
+    id: 'project-2',
+    name: 'Countries-API',
+    description:
+      'A webpage using a REST API to get a country list',
+    tags: [
+      {
+        name: 'react',
+        color: 'blue-text-gradient',
+      },
+      {
+        name: 'restapi',
+        color: 'green-text-gradient',
+      },
+      {
+        name: 'scss',
+        color: 'pink-text-gradient',
+      },
+    ],
+    image: password,
+    repo: 'https://github.com/Warzy5/Countries-API',
+    demo: 'https://warzy5.github.io/Countries-API/',
   },
 ];
 

@@ -53,6 +53,7 @@ import nyeusi from './projects/nyeusi.png';
 import space from './projects/space-hub.png';
 import skyscope from './projects/skyscope.png';
 import password from './projects/password-generator.png';
+import country from './projects/countries.png';
 
 export {
   bwmap,
@@ -99,6 +100,7 @@ export {
   space,
   skyscope,
   password,
+  country,
   coverhunt,
   dcc,
   kelhel,
