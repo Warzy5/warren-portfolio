@@ -31,7 +31,7 @@ const About = () => {
     <div className="-mt-[6rem]">
       <motion.div variants={textVariant()}>
         <p className={styles.sectionSubText}>Introduction</p>
-        <h2 className={styles.sectionHeadText}>Who am I?</h2>
+        <h2 className={styles.sectionHeadText}>Who am I ?</h2>
       </motion.div>
 
       <motion.p
