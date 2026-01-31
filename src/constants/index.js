@@ -156,7 +156,7 @@ const projects = [
     demo: 'https://warzy5.github.io/password-generator/',
   },
   {
-    id: 'project-2',
+    id: 'project-3',
     name: 'Countries-API',
     description:
       'A webpage using a REST API to get a country list',
