@@ -52,6 +52,7 @@ import movie from './projects/movie-metro.png';
 import nyeusi from './projects/nyeusi.png';
 import space from './projects/space-hub.png';
 import skyscope from './projects/skyscope.png';
+import password from './projects/password-generator.png';
 
 export {
   bwmap,
@@ -97,6 +98,7 @@ export {
   nyeusi,
   space,
   skyscope,
+  password,
   coverhunt,
   dcc,
   kelhel,
