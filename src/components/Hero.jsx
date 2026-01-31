@@ -2,7 +2,7 @@ import { motion } from 'framer-motion';
 import { Link } from 'react-router-dom';
 import { styles } from '../styles';
 import { navLinks } from '../constants';
-import {bwmap, worldmap} from '../assets';
+import { bwmap, worldmap } from '../assets';
 
 const Hero = () => {
   return (
@@ -47,7 +47,9 @@ const Hero = () => {
             </h1>
             <p className={`${styles.heroSubText} mt-2 text-eerieBlack`}>
               <br className="sm:block hidden" />
-              Développeur dynamique je suis quelqu’un d’agile prêt à résoudre les problèmes qui se posent sur mon chemin grâce a mes différentes connaissances
+              Junior Web Developer
+              Strong foundations in HTML5, CSS, JavaScript, PHP, and SQL.
+              Experienced in working on full application projects involving front-end, back-end, and databases.
             </p>
           </div>
           <div
